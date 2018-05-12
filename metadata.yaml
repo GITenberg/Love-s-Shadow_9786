@@ -1,5 +1,8 @@
 _repo: Love-s-Shadow_9786
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leverson, Ada
@@ -18,6 +21,8 @@ description: 'Edith and Bruce Ottley live in a very new, very small, very white 
   and love affairs of their coterie: why the dashing Cecil Reeve insists on being
   so elusive, why her loyal friend Anne is so stubbornly content with being a spinster,
   and why she just can¡t seem to take her mind off love ...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9786#Love-s-Shadow
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
